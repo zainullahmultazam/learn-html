@@ -1,2 +1,2 @@
 # belajar-html
-perjalanan saya mulai terjun ke html
+My journey began to dive into HTML
